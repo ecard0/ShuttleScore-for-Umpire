@@ -1,6 +1,6 @@
 Welcome to ShuttleScore for Umpire website.
 
-![Image](IMG_0083 (1).png)
+![Image](IMG_0083.png)
 
 If you need help, please contact shuttlescore.forumpire@gmail.com
 
